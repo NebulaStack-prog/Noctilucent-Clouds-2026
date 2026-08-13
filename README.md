@@ -1,6 +1,6 @@
 # Noctilucent Clouds
 
-<img src="https://github.com/NebulaStack-prog/Noctilucent-Clouds-2026/raw/main/SC.jpg" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/Noctilucent-Clouds-2026/raw/main/SC.png" width="200" height="230">
 
 * **ID:** NS-P002
 * **Date:** 18.07.26
